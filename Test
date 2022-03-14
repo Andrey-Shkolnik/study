@@ -1,0 +1,11 @@
+print ("Hello")
+print ("I'm test bot, please enter your name in line below")
+user=input\
+
+def string(user):
+    pass
+
+
+string ("write your name here--->")  # type: Username
+print ("Welcome",user)
+
