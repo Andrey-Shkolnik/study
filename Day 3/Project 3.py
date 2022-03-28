@@ -30,7 +30,7 @@ print ('You are at a crossroad. Where do you want to go? Type "left" or "right"'
 crossroad=input()
 if crossroad=='right':
     print ("You fell into a hole. Game Over.")
-elif:
+else:
     print ('You have come to a lake. There is an island in the middle of the lake.'
            'Type "wait" to wait for a boat. Type "swim" to swim across')
     lake=input()
